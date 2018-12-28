@@ -33,7 +33,7 @@ n = int(input('시작할 화: '))
 ne = int(input('완료할 화: '))
 while n < ne + 1:
     if __name__ == '__main__':
-        wt_url = 'https://comic.naver.com/webtoon/detail.nhn?titleId='
+        wt_url = 'https://comic.naver.com/bestChallenge/detail.nhn?titleId='
         title_id = str(iD)
         ct_f = '&no='
         wt_no = str(n)
