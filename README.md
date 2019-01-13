@@ -10,4 +10,4 @@ URL의 TitleId, Page가 작품번호, 화 입니다.
 설치법
 ==
 위 스크립트 구동을 위해 requests, beautifulsoup4 라이브러리가 필요합니다.
-      > pip install requests beautifulsoup4
+      ''' pip install requests beautifulsoup4 pillow '''
